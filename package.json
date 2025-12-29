@@ -1,0 +1,19 @@
+{
+  "name": "funding-rates-finder",
+  "version": "1.0.0",
+  "description": "A tool to find coins with the biggest funding rates on Bybit.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.0.0"
+  }
+}
